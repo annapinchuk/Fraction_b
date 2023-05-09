@@ -27,10 +27,7 @@ namespace ariel
         Fraction() : numeator(0), denominator(1) {}
         Fraction(int numeator, int denominator); // float contains int and float
         Fraction(float numeator);
-        // distractor
-        ~Fraction() {}
-        // copy constructor
-        Fraction(const Fraction &other) : numeator(other.numeator), denominator(other.denominator) {}
+        
         // getters
         int getNumerator() const { return numeator; }
         int getDenominator() const { return denominator; }
