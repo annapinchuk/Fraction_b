@@ -1,3 +1,8 @@
+// Author: Anna Pinchuk
+// Date: 10/05/2023
+// Description: Implementation of the class Fraction and student tests
+// this class should be able to do basic arithmetic operations on fractions
+// credit to: course staff for the header file,students for tests.
 #include "Fraction.hpp"
 using namespace ariel;
 
